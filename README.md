@@ -14,8 +14,9 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://sdtimes.com/wp-content/uploads/2018/03/cpppp.png">
-  <img align="center" alt="PHP" height="30" width="60" src="https://pngimg.com/uploads/php/php_PNG26.png">
   <img align="center" alt="SQL" height="30" width="40" src="https://th.bing.com/th/id/R.3fd0d1519d7d4235a07b7907ace37d3b?rik=lNxKBZDYLXvdtQ&pid=ImgRaw&r=0">
+  <img align="center" alt="PHP" height="30" width="60" src="https://pngimg.com/uploads/php/php_PNG26.png">
+  
 </div>
 
 <br>
