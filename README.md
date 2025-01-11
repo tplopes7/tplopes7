@@ -1,7 +1,12 @@
-## Olá! Seja bem-vindo(a) ao meu GitHub! 👋
+## Olá! Sou a Thaís, seja bem-vindo(a)! 👋
 
-- 📚 Estudante de Análise e Desenvolvimento de Sistemas.
-- 🌱 Aprendendo HTML, CSS, JavaScript, PHP e SQL.
+- 📚 Minha jornada na tecnologia começou em 2022, ao ingressar no curso de Análise e Desenvolvimento de Sistemas na Fatec Jundiaí. Agora, recém-graduada, destaco dois marcos importantes: a publicação de artigos acadêmicos que consolidaram meu aprendizado e ampliaram minha visão sobre a área.
+
+O primeiro artigo, resultado do desenvolvimento do aplicativo EcoLife, abordou a temática de sustentabilidade aplicada à tecnologia. O segundo explorou boas práticas no desenvolvimento de software, reforçando a importância da documentação e qualidade do código.
+
+Além disso, participei de formações complementares, como Big Data e Python, e atuei como bolsista da Huawei, aprofundando conhecimentos técnicos e didáticos. Trabalhei com linguagens como Python, SQL, PHP, JavaScript e ferramentas de modelagem, aplicando-as em projetos práticos e acadêmicos.
+
+Meu objetivo é aplicar o conhecimento adquirido, continuar aprendendo e contribuir com soluções inovadoras no mercado de tecnologia.
 
 <div>
   <a href="https://github.com/whymat">
