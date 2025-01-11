@@ -27,10 +27,8 @@ Meu objetivo é aplicar o conhecimento adquirido, continuar aprendendo e contrib
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
   <img align="center" alt="PHP" height="40" width="40" src="https://pngimg.com/uploads/php/php_PNG25.png">
-  
-  
+    
   </div>
 
 <br>
